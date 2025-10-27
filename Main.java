@@ -18,7 +18,6 @@ public class Main {
 
         //creation of a new Zenith AT with no accesories
         KiaPicanto zenithAT = new ZenithAT();
-        System.out.println(zenithAT.getDescription() + ": $" + zenithAT.cost() + "\n"); 
-
+        System.out.println(zenithAT.getDescription() + ": $" + zenithAT.cost() + "\n");
     }
 }
